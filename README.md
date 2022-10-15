@@ -1,2 +1,2 @@
 # odin_receips
-First Odin Project
+First Odin Project that will show a few receips to cook.
